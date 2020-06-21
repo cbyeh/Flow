@@ -8,7 +8,7 @@
  *  @author       Chau Vu
  *  @author       David Dai
  *
- *  @requires     NPM:react,prop-types,react-compound-timer
+ *  @requires     NPM:react,prop-types,react-compound-timer,react-slider
  *  @requires     ../styles/PopupFocusMode.css
  */
 
